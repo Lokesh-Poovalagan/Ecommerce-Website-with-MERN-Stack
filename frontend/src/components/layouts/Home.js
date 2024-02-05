@@ -32,7 +32,7 @@ const Home = ({setPage}) => {
                 <h1>Unveil the Timeless</h1>
                 <h1 class="fo">Beauty of Sarees! </h1>
                 <p>Save more with coupons & up to 60% off!</p>
-                <button ><a href="shop.html">Shop now</a></button>
+                <button ><Link to="/shop">Shop now</Link></button>
 
             </section>
             <div id="feature" class="section-p">
